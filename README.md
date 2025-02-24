@@ -19,7 +19,7 @@ A simple command-line To-Do List application to manage weekly and monthly tasks 
 
     Clone the repository:
 
-git clone https://github.com/your-username/To-Do-List-Python.git
+git clone https://github.com/Vbooxx/To-Do-List-Python.git
 cd To-Do-List-Python
 
 Run the script:
