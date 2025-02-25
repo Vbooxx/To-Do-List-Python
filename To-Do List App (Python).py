@@ -1,0 +1,11 @@
+def main():
+    tasks = []
+
+    while True:
+        print("\n1. Add Task")
+        print("2. View Tasks")
+        print("3. Complete Task")
+        print("4. Remove Task")
+        print("5. Exit")
+        choice = input("Choose an option: ")
+    
